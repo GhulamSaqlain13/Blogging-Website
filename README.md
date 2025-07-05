@@ -1,7 +1,9 @@
-MERN Stack Blog Website
+MERN Stack Blog Website 
+
 A fully functional Blog Website application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. This platform allows users to register, write blog posts, edit or delete them, and manage their profiles.
 
 Features
+
 Users
 Register and login
 Create blog posts
@@ -27,6 +29,7 @@ Manage all users and blog posts
 Delete inappropriate or spam content
 
 Tech Stack
+
 MongoDB	NoSQL database to store users and blog posts
 Express.js	Backend framework for building APIs
 React.js	Frontend UI built with React and hooks
